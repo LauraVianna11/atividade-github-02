@@ -1,1 +1,5 @@
-# atividade-github-02
+# Atividade de GitHub
+Este repositório foi criado para praticar versionamento.
+
+## RA
+Seu RA: 13745
